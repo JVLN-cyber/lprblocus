@@ -13,8 +13,8 @@ date_default_timezone_set('Europe/Paris');
 
 const EVENT_DATE = '2026-10-01T07:45:00+02:00';
 
-const INSTAGRAM_GROUP_URL = 'https://www.instagram.com/';
-const SNAPCHAT_GROUP_URL  = 'https://www.snapchat.com/';
+const INSTAGRAM_GROUP_URL = 'https://ig.me/j/l9grEWjiASJSQW0b';
+const SNAPCHAT_GROUP_URL  = 'https://snapchat.com/t/hli5npFI';
 
 /*
 |--------------------------------------------------------------------------
