@@ -581,8 +581,7 @@ $alreadyJoined = participantExists($pdo, $participantHash);
                 </h3>
 
                 <p>
-                    Prévois de l'eau, des vêtements adaptés à la météo
-                    et ton téléphone chargé.
+                    Prévois du matériel, des pétards, un cadenas de vélo pour verrouiller le portail, un scooter 50cc pour faire du tapage, de la farine et des œufs à jeter sur le lycée. Pas de violence.
                 </p>
 
             </article>
