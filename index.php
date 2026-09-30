@@ -6,7 +6,7 @@ session_start();
 date_default_timezone_set('Europe/Paris');
 
 const EVENT_DATE = '2026-10-01T07:45:00+02:00';
-const INSTAGRAM_GROUP_URL = 'https://www.instagram.com/';
+const INSTAGRAM_GROUP_URL = 'https://www.instagram.com/jvln000/';
 const SNAPCHAT_GROUP_URL = 'https://www.snapchat.com/';
 const COOKIE_NAME = 'pdr_participant';
 
